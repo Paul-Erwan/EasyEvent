@@ -1,2 +1,0 @@
-# EasyEvent
-EasyEvent
